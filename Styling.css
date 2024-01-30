@@ -75,7 +75,7 @@ body {
   opacity: 1;
 }
 
-@media (min-width: 400px) { /*How to make website responsive*/
+@media (min-width: 200px) { /*How to make website responsive*/
   body {
     background-color: #cc872ee5;
 }
